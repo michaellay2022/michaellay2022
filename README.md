@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaellay2022
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning full-stack development with Coding Dojo. Expected to finish in May 2022.
+- 🌱 I’m currently learning full-stack development with Coding Dojo. 
 - 💞️ I’m looking to collaborate on new projects, new ideas, and a career opportunity. 
 - 📫 How to reach me at my phone 804-475-7889 or email address at michaellay2689@gmail.com
 
